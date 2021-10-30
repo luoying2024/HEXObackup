@@ -65,3 +65,7 @@ Open set, the program will create and open a file in D drive, fill in the folder
 
 Of course, you can modify this program to achieve the effect you need. (For example, synchronize files with OneDrive or modify the logic, and upload it directly to cloud storage)
 
+
+
+另外，set.exe容易被 windows defender 删掉，因为是涉及了打开记事本操作...
+In addition, set.exe is easy to be deleted by windows defender because it involves opening the notepad...
