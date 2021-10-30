@@ -7,6 +7,13 @@ HEXO是以本地的形式存储的...
 
 所以，我花了些时间去写了一个PYthon脚本并打包出来，可通用哦。
 
+---------------
+
+另外，set.exe容易被 windows defender 删掉，因为是涉及了打开记事本操作...
+In addition, set.exe is easy to be deleted by windows defender because it involves opening the notepad...
+
+----------------
+
 ## 功能
 
 批量备份文件夹（压缩到）D盘的BACKup文件夹内，分日期可回溯。
